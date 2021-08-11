@@ -1,0 +1,55 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Agencias] (Tabla)
+       [dbo].[CatalogoCanton] (Tabla)
+       [dbo].[CatalogoDistrito] (Tabla)
+       [dbo].[CatalogoProvincia] (Tabla)
+       [dbo].[Clientes] (Tabla)
+       [dbo].[MarcaVehiculo] (Tabla)
+       [dbo].[Usuarios] (Tabla)
+       [dbo].[Vehiculo] (Tabla)
+       [dbo].[Vehiculo].[IDX_Vehiculo_Matricula] (Índice)
+       [dbo].[DF_Vehiculo_FechaModelo] (Restricción DEFAULT)
+       [dbo].[DF_Vehiculo_TieneDefectos] (Restricción DEFAULT)
+       [dbo].[FK_Agencia_Provincia] (Clave externa)
+       [dbo].[Fk_Agencia_Canton] (Clave externa)
+       [dbo].[Fk_Agencia_Distrito] (Clave externa)
+       [dbo].[FK_Canton_Provincia] (Clave externa)
+       [dbo].[FK_Distrito_Canton] (Clave externa)
+       [dbo].[FK_Clientes_Angecias] (Clave externa)
+       [dbo].[FK_Vehiculo_MarcaVehiculo] (Clave externa)
+       [dbo].[AgenciaActualizar] (Procedimiento)
+       [dbo].[AgenciaEliminar] (Procedimiento)
+       [dbo].[AgenciaInsertar] (Procedimiento)
+       [dbo].[AgenciaLista] (Procedimiento)
+       [dbo].[AgenciaObtener] (Procedimiento)
+       [dbo].[CatalogoCantonLista] (Procedimiento)
+       [dbo].[CatalogoDistritoLista] (Procedimiento)
+       [dbo].[CatalogoProvinciaLista] (Procedimiento)
+       [dbo].[ClientesActualizar] (Procedimiento)
+       [dbo].[ClientesEliminar] (Procedimiento)
+       [dbo].[ClientesInsertar] (Procedimiento)
+       [dbo].[ClientesObtener] (Procedimiento)
+       [dbo].[Login] (Procedimiento)
+       [dbo].[MarcaVehiculoActualizar] (Procedimiento)
+       [dbo].[MarcaVehiculoEliminar] (Procedimiento)
+       [dbo].[MarcaVehiculoInsertar] (Procedimiento)
+       [dbo].[MarcaVehiculoLista] (Procedimiento)
+       [dbo].[MarcaVehiculoObtener] (Procedimiento)
+       [dbo].[UsuarioRegistrar] (Procedimiento)
+       [dbo].[VehiculoActualizar] (Procedimiento)
+       [dbo].[VehiculoEliminar] (Procedimiento)
+       [dbo].[VehiculoInsertar] (Procedimiento)
+       [dbo].[VehiculoObtener] (Procedimiento)
+
+** Acciones de compatibilidad

@@ -1,0 +1,41 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       [dbo].[Agencias]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Se está quitando la columna [dbo].[Agencias].[NombreCompleto]; puede que se pierdan datos.
+       Debe agregarse la columna [dbo].[Agencias].[Nombre] de la tabla [dbo].[Agencias], pero esta columna no tiene un valor
+         predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta
+         incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
+         generación de valores predeterminados inteligentes como opción de implementación.
+
+** Acciones del usuario
+     Nueva compilación de tablas
+       [dbo].[Agencias] (Tabla)
+     Modificar
+       [dbo].[AgenciaLista] (Procedimiento)
+
+** Acciones de compatibilidad
+     Quitar
+       [dbo].[FK_Agencia_Provincia] (Clave externa)
+       [dbo].[Fk_Agencia_Canton] (Clave externa)
+       [dbo].[Fk_Agencia_Distrito] (Clave externa)
+       [dbo].[FK_Clientes_Angecias] (Clave externa)
+     Crear
+       [dbo].[FK_Agencia_Provincia] (Clave externa)
+       [dbo].[Fk_Agencia_Canton] (Clave externa)
+       [dbo].[Fk_Agencia_Distrito] (Clave externa)
+       [dbo].[FK_Clientes_Angecias] (Clave externa)
+     Actualizar
+       [dbo].[AgenciaActualizar] (Procedimiento)
+       [dbo].[AgenciaEliminar] (Procedimiento)
+       [dbo].[AgenciaInsertar] (Procedimiento)
+       [dbo].[AgenciaObtener] (Procedimiento)
+       [dbo].[ClientesObtener] (Procedimiento)
+
+Se está quitando la columna [dbo].[Agencias].[NombreCompleto]; puede que se pierdan datos.
+Debe agregarse la columna [dbo].[Agencias].[Nombre] de la tabla [dbo].[Agencias], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+

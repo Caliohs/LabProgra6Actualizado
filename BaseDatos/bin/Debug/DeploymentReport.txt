@@ -1,0 +1,35 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       [dbo].[Clientes]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Se está quitando la columna [dbo].[Clientes].[Nombre]; puede que se pierdan datos.
+       Debe agregarse la columna [dbo].[Clientes].[NombreCompleto] de la tabla [dbo].[Clientes], pero esta columna no tiene un
+         valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar
+         esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
+         generación de valores predeterminados inteligentes como opción de implementación.
+
+** Acciones del usuario
+     Nueva compilación de tablas
+       [dbo].[Clientes] (Tabla)
+     Modificar
+       [dbo].[ClientesActualizar] (Procedimiento)
+       [dbo].[ClientesInsertar] (Procedimiento)
+       [dbo].[ClientesObtener] (Procedimiento)
+     Crear
+       [dbo].[AgenciaLista] (Procedimiento)
+
+** Acciones de compatibilidad
+     Quitar
+       [dbo].[FK_Clientes_Angecias] (Clave externa)
+     Crear
+       [dbo].[FK_Clientes_Angecias] (Clave externa)
+     Actualizar
+       [dbo].[ClientesEliminar] (Procedimiento)
+
+Se está quitando la columna [dbo].[Clientes].[Nombre]; puede que se pierdan datos.
+Debe agregarse la columna [dbo].[Clientes].[NombreCompleto] de la tabla [dbo].[Clientes], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+

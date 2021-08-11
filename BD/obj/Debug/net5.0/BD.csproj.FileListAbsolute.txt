@@ -1,0 +1,15 @@
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\bin\Debug\net5.0\BD.deps.json
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\bin\Debug\net5.0\BD.dll
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\bin\Debug\net5.0\ref\BD.dll
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\bin\Debug\net5.0\BD.pdb
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\bin\Debug\net5.0\Entity.dll
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\bin\Debug\net5.0\Entity.pdb
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.csproj.AssemblyReference.cache
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.AssemblyInfoInputs.cache
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.AssemblyInfo.cs
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.csproj.CopyComplete
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.dll
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\ref\BD.dll
+C:\Users\cca\Documents\..Universidad\.NET-core\CursoProgramacion6Sabados\BD\obj\Debug\net5.0\BD.pdb
