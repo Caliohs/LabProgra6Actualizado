@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\BD\\BD.csproj": {}
+    "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\BD\\BD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\BD\\BD.csproj": {
+    "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\BD\\BD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\BD\\BD.csproj",
+        "projectUniqueName": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\BD\\BD.csproj",
         "projectName": "BD",
-        "projectPath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\BD\\BD.csproj",
+        "projectPath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\BD\\BD.csproj",
         "packagesPath": "C:\\Users\\cca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\BD\\obj\\",
+        "outputPath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\BD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\Entity\\Entity.csproj"
+              "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\Entity\\Entity.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\Entity\\Entity.csproj": {
+    "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\cca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

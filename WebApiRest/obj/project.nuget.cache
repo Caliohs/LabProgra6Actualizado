@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u2XfjC3AlVgOuHVxq8BzKa57czBg2ybIJjyF0mJnCKGheLUw1H6bUXgg6s6V9iDwP+FKTdbDOWhNhBVUmMtKRA==",
+  "dgSpecHash": "GTcFoc2RKp8RDkIFApN7kcYV90KuRR3X19VnBBww5+thUKQI7IRiSF7qYFHaH+0ubWVfxngL9HKbbk7znakRng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\WebApiRest\\WebApiRest.csproj",
+  "projectFilePath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\WebApiRest\\WebApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cca\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\cca\\.nuget\\packages\\dapper.mapper\\2.0.0\\dapper.mapper.2.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yHhOAIqk+kn+HVSH7vnzezkZH1rKx93SMVWhuN5EP8VHbJ27U10hWtz7D0r0VxATKqT3R7PQwWQEREk0yLslig==",
+  "dgSpecHash": "/IYKPt8ZWnhwXALwVbs0+QJLiNzPrIaBXQKBJgPsYCkp+YKij5afCqMZ9zz2rp00RL7QIQK2xlK15lU+2htg6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cca\\Documents\\..Universidad\\.NET-core\\CursoProgramacion6Sabados\\WBL\\WBL.csproj",
+  "projectFilePath": "C:\\Users\\cca\\Desktop\\CursoProgramacion6Actualizado\\WBL\\WBL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cca\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\cca\\.nuget\\packages\\dapper.mapper\\2.0.0\\dapper.mapper.2.0.0.nupkg.sha512",
